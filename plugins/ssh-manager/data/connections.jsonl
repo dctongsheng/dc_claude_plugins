@@ -1,0 +1,4 @@
+{"id":"1","name":"localhost","host":"127.0.0.1","user":"root","port":2222,"identity_file":null,"description":"Local development server","created_at":"2026-01-09T12:00:00Z","updated_at":"2026-01-09T12:00:00Z"}
+{"id":"2","name":"production","host":"prod.example.com","user":"admin","port":22,"identity_file":"/home/user/.ssh/id_rsa","description":"Production web server","created_at":"2026-01-09T12:05:00Z","updated_at":"2026-01-09T12:05:00Z"}
+{"id":"3","name":"staging-db","host":"staging.db.example.com","user":"dbuser","port":22,"identity_file":null,"description":"Staging database server","created_at":"2026-01-09T12:10:00Z","updated_at":"2026-01-09T12:10:00Z"}
+{"id":"176793729624869","name":"github","host":"github.com","user":"git","port":22,"identity_file":"/root/.ssh/id_rsa","description":"GitHub for cloning","created_at":"2026-01-09T05:41:36Z","updated_at":"2026-01-09T05:41:36Z"}
