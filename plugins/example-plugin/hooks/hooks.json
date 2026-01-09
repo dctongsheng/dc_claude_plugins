@@ -1,0 +1,16 @@
+{
+  "description": "Example hooks for the example plugin",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "When the session starts, welcome the user and mention that the example-plugin is loaded. Keep it brief and friendly."
+          }
+        ]
+      }
+    ]
+  }
+}

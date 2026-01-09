@@ -1,0 +1,13 @@
+{
+  "name": "example-plugin",
+  "version": "1.0.0",
+  "description": "Example Claude Code plugin demonstrating basic features",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "license": "MIT",
+  "claude": {
+    "minVersion": "1.0.0"
+  }
+}

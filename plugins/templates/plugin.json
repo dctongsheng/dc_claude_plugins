@@ -1,0 +1,10 @@
+{
+  "name": "{{plugin-name}}",
+  "version": "1.0.0",
+  "description": "{{Plugin description}}",
+  "author": {
+    "name": "Your Name",
+    "email": "your.email@example.com"
+  },
+  "license": "MIT"
+}
