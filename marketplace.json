@@ -7,5 +7,18 @@
     "name": "Your Name",
     "email": "your.email@example.com"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "ssh-manager",
+      "description": "Manage SSH connections with CRUD operations",
+      "source": "./plugins/ssh-manager",
+      "category": "utilities"
+    },
+    {
+      "name": "example-plugin",
+      "description": "Example plugin demonstrating basic features",
+      "source": "./plugins/example-plugin",
+      "category": "examples"
+    }
+  ]
 }
