@@ -45,11 +45,11 @@
 
 ### 环境配置
 
-我使用的是 Docker-in-Docker 容器环境：
+我使用的是 Docker 容器环境：
 
 ```bash
 # 容器信息
-容器名: bws-dind-dev-26
+容器名: dind-dev-26
 项目目录: /workspace/xm/claude-plugins
 ```
 
