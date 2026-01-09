@@ -6,8 +6,5 @@
     "name": "Claude Plugins Developer",
     "email": "developer@claude-plugins.local"
   },
-  "license": "MIT",
-  "claude": {
-    "minVersion": "1.0.0"
-  }
+  "license": "MIT"
 }
